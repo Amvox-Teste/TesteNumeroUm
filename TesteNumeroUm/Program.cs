@@ -12,6 +12,8 @@ namespace TesteNumeroUm
         {
             Console.WriteLine("...........DIGITE........");
             Console.ReadKey();
+
+            Console.WriteLine(".....Escreva.....");
         }
     }
 }
