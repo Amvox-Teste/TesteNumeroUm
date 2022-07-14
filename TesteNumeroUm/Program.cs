@@ -10,7 +10,8 @@ namespace TesteNumeroUm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("...........");
+            Console.WriteLine("...........DIGITE........");
+            Console.ReadKey();
         }
     }
 }
